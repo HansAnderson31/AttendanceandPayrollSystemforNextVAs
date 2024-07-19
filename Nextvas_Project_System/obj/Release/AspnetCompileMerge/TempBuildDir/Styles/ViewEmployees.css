@@ -1,0 +1,145 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+}
+
+.row{
+    display:flex;
+    justify-content:flex-start;
+    margin-left:20px;
+    margin-right:10px;
+    margin-top:10px;
+    margin-bottom:0px;
+}
+    .row .row1{
+        position:relative;
+        width:250px;
+        height:100%;
+        text-align:center;
+    }
+        .row .row1 .profile_pic{
+            width:150px;
+            height:150px;
+        }
+    .row .row2 {
+        width: 600px;
+        height: 100%;
+        font-size:10px;
+    }
+        .row .row2 .input_row{
+            margin: 4px 0;
+        }
+        .row .row2 .labelInput{
+            font-size:6pt;
+            font-style:italic;
+            font-weight:700;
+        }
+        .row .row2 .textBoxInput {
+            width:170px;
+            font-size:15pt;
+        }
+
+    .row .row2_extend{
+        padding: 0 7px;
+    }
+        .row .row2_extend .job_sched {
+            align-content: center;
+        }
+        .row .row2_extend .input_row{
+            margin-bottom:15px;
+        }
+        .row .row2_extend .label_sched {
+            font-size: 6pt;
+            font-style: italic;
+            font-weight: 700;
+        }
+        .row .row2_extend .input_sched {
+            width: 120px;
+            font-size: 14pt;
+        }
+
+        .row .row3 {
+            width: 250px;
+            height: 100%;
+        }
+    .row .row3 .qrcode_ID{
+        width:200px;
+        height:200px;
+    }
+    .row .row4 {
+        width: 250px;
+        height: 100%;
+    }
+        .row .row4 .row_option{
+            padding-top:10px;
+        }
+
+        .input_row {
+            display: flex;
+            justify-content: flex-start;
+        }
+.cell{
+    margin-left:2px;
+    margin-right:2px;
+}
+
+
+
+
+.info_area {
+    border: 1.5px solid black;
+    height: 270px;
+}
+
+    .info_area .header {
+        border: 1.5px solid black;
+        height: 40px;
+    }
+
+        .info_area .header header {
+            text-align: left;
+            font-size: 20pt;
+            font-weight: 700;
+        }
+
+
+.filter_area {
+    display:flex;
+    align-content:center;
+    justify-content:center;
+    outline: 1.5px solid black;
+}
+.filter_area .row{
+    display:inline-block;
+    margin:20px;
+}
+.filter_area .row .input_row{
+    font-size:15pt;
+    width: 300px;
+}
+
+
+.data_area {
+    margin-top:10px;
+    border: 1.5px solid black;
+    height: 500px;
+}
+
+    .data_area .header {
+        border: 1.5px solid black;
+        height: 40px;
+    }
+
+        .data_area .header header {
+            text-align: left;
+            font-size: 20pt;
+            font-weight: 700;
+        }
+    .data_area .data {
+        height: 400px;
+        max-height: 400px;
+        overflow: scroll;
+    }
+

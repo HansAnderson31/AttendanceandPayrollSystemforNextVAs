@@ -1,0 +1,50 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+}
+
+.row1 .image_area{
+    position:absolute;
+    width:15%;
+}
+    .row1 .image_area .img {
+        height: 150px;
+        width: 150px;
+    }
+
+.row1 .personal_information {
+    position:absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    width:85%;
+    margin-top:50px;
+}
+    .row1 .personal_information table {
+        margin-top:13px;
+        width: 450px;
+        height: 200px
+    }
+        .row1 .labelStyle{
+            font-size:10pt;
+        }
+        .row1 .dataStyle {
+            font-size: 15pt;
+            font-weight:700;
+        }
+
+.row1 .contact_information {
+    position: absolute;
+    bottom: 0px;
+    width:95%;
+    height: 53%;
+}
+    .row1 .contact_information div{
+        margin: 15px 0;
+        margin-top: 0;
+    }
+    .row1 .contact_information table {
+        width: 60%;
+    }

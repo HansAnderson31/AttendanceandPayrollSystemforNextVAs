@@ -1,0 +1,174 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    text-decoration: none;
+}
+.image_area{
+    width:330px;
+    height:250px;
+}
+    .image_area div {
+        margin-left: 25px;
+        margin-top: 25px;
+    }
+.image_area .image_display{
+    width:170px;
+    height:170px;
+}
+
+
+.info_box {
+    border: 1.5px solid black;
+    height: 340px;
+}
+    .info_box .header {
+        border: 1.5px solid black;
+        height: 40px;
+    }
+    .info_box .header header {
+        text-align: left;
+        font-size: 20pt;
+        font-weight: 700;
+    
+    }
+    .info_box .info_input{
+        position:absolute;
+        right:55px;
+        width:1070px;
+        top: 68px;
+        height: 205px;
+}
+    .info_box .info_input table {
+        width: 100%;
+        height: 234px;
+        font-size: 10pt;
+        border-spacing:0;
+        border-collapse:collapse;
+    }
+
+.contact_info_box {
+    border: 1.5px solid black;
+    height: 220px;
+    margin-top:30px;
+}
+    .contact_info_box .header {
+        border: 1.5px solid black;
+        height: 40px;
+    }
+        .contact_info_box .header header {
+            text-align: left;
+            font-size: 20pt;
+            font-weight: 700;
+        }
+    .contact_info_input{
+        margin-left:20px;
+        margin-top:10px;
+    }
+        .contact_info_input table {
+            width: 100%;
+            height: 150px;
+            font-size: 10pt;
+            border-spacing: 0;
+            border-collapse: collapse;
+        }
+        .contact_info_input table tr td .home_address{
+            width:100%;
+        }
+
+
+.business_info_box {
+    border: 1.5px solid black;
+    height: 420px;
+    margin-top: 30px;
+}
+
+    .business_info_box .header {
+        border: 1.5px solid black;
+        height: 40px;
+    }
+
+        .business_info_box .header header {
+            text-align: left;
+            font-size: 20pt;
+            font-weight: 700;
+        }
+
+.business_info_input {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+    .business_info_input table {
+        width: 100%;
+        height: 150px;
+        font-size: 10pt;
+        border-spacing: 0;
+        border-collapse: collapse;
+    }
+
+        .business_info_input table tr td .home_address {
+            width: 100%;
+        }
+
+        .info_textbox {
+            width: 80%;
+            font-size: 23px;
+        }
+        .info_dropbox {
+            width: 80%;
+
+        }
+
+.buttons{
+    display:flex;
+    width:100%;
+    margin-top:30px;
+    justify-content:center;
+}
+
+.submit_btn {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 15px;
+    font-family: Arial;
+    width: 80px;
+    height: 40px;
+    border-width: 1px;
+    color: #fff;
+    border-color: #83c41a;
+    font-weight: bold;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    box-shadow: inset 0px 1px 0px 0px #d9fbbe;
+    background: linear-gradient(#b8e356, #a5cc52);
+}
+
+    .submit_btn:hover {
+        background: linear-gradient(#a5cc52, #b8e356);
+    }
+
+.clear_btn {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 15px;
+    font-family: Arial;
+    width: 80px;
+    height: 40px;
+    border-width: 1px;
+    color: #fff;
+    border-color: rgba(139, 9, 3, 1);
+    font-weight: bold;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    box-shadow: inset 0px 1px 0px 0px rgba(253, 167, 161, 1);
+    background: linear-gradient(rgba(253, 19, 19, 1), rgba(248, 135, 135, 1));
+}
+
+    .clear_btn:hover {
+        background: linear-gradient(rgba(248, 135, 135, 1), rgba(253, 19, 19, 1));
+    }

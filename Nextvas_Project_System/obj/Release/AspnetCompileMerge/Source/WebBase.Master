@@ -1,0 +1,43 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="WebBase.master.cs" Inherits="Nextvas_Project_System.WebBase" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="../Styles/Master.css" rel="stylesheet" />
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="sidebar">
+            <header>Nextvas</header>
+            <ul class="side">
+                <li id="addEmpList" runat="server"><a href="AddEmployee.aspx"><i class="fas fa-plus"></i>Add Employee</a></li>
+                <li id="viewEmpList" runat="server"><a href="ViewEmployees.aspx"><i class="fas fa-user-friends"></i>View Employees</a></li>
+                <li id="timeSheetList" runat="server"><a href="Timesheet.aspx"><i class="fas fa-calendar-alt"></i>Timesheet</a></li>
+                <li id="payRollList" runat="server"><a href="Payroll.aspx"><i class="fas fa-money-check-alt"></i>Payroll</a></li>
+                <li id="AttendValList" runat="server"><a href="AttendanceValidation.aspx"><i class="fas fa-qrcode"></i>Scan QR code</a></li>
+                <li id="SignOutList" runat="server"><a href="LoginPage.aspx"><i class="fas fa-sign-out-alt"></i>Sign out</a></li>
+            </ul>
+        </div>
+
+        <asp:Label ID="Label1_WebBase" runat="server" Text="Label"></asp:Label>
+        <div class="admin_area" style="text-align:right;">
+            <div style="margin:15px; color:white">
+                <h1 style="font-size: 15pt">Hello, <span><asp:Label ID="labelName" runat="server" Text="First Name"></asp:Label></span></h1>
+            </div>
+        </div>
+        <div class="canvas_area">
+            <div class="content_PHolder">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            
+        </div>
+        
+    </form>
+</body>
+</html>

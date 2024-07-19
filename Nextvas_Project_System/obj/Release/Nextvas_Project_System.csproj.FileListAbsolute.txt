@@ -1,0 +1,478 @@
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\Nextvas_Project_System.dll.config
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\Nextvas_Project_System.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\Nextvas_Project_System.pdb
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\csc.exe
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\csc.exe.config
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\csc.rsp
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\csi.exe
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\csi.exe.config
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\csi.rsp
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.AppContext.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Console.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.IO.Compression.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Net.Http.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.ValueTuple.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\vbc.exe
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\vbc.exe.config
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\vbc.rsp
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\VBCSCompiler.exe
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\BouncyCastle.Crypto.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\Google.Protobuf.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\K4os.Compression.LZ4.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\K4os.Hash.xxHash.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\MySql.Data.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\Newtonsoft.Json.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\NuGet.Frameworks.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\QRCoder.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\SixLabors.ImageSharp.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\System.Buffers.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\System.Memory.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\System.Net.Http.Formatting.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\System.Numerics.Vectors.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\System.Text.Encoding.CodePages.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\System.Text.Encodings.Web.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\System.Web.Http.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\System.Web.Http.WebHost.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\Ubiety.Dns.Core.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\ZstdNet.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\BouncyCastle.Crypto.xml
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\Google.Protobuf.pdb
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\Google.Protobuf.xml
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\K4os.Compression.LZ4.xml
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\K4os.Hash.xxHash.xml
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\MySql.Data.xml
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\Newtonsoft.Json.xml
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\NuGet.Frameworks.xml
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\SixLabors.ImageSharp.xml
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\System.Buffers.xml
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\System.Memory.xml
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\System.Net.Http.Formatting.xml
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\System.Numerics.Vectors.xml
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\System.Text.Encoding.CodePages.xml
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\System.Text.Encodings.Web.xml
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\System.Web.Http.xml
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\System.Web.Http.WebHost.xml
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\obj\Release\Nextvas_Project_System.csproj.AssemblyReference.cache
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\obj\Release\Nextvas_Project_System.csproj.CoreCompileInputs.cache
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\obj\Release\Nextvas_Project_System.csproj.CopyComplete
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\obj\Release\Nextvas_Project_System.dll
+C:\Users\Junior\source\repos\Nextvas_Project_System\Nextvas_Project_System\obj\Release\Nextvas_Project_System.pdb
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\Nextvas_Project_System.dll.config
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\Nextvas_Project_System.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\Nextvas_Project_System.pdb
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\csc.exe
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\csc.exe.config
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\csc.rsp
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\csi.exe
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\csi.exe.config
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\csi.rsp
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.AppContext.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Console.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.IO.Compression.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Net.Http.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.ValueTuple.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\vbc.exe
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\vbc.exe.config
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\vbc.rsp
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\VBCSCompiler.exe
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\BouncyCastle.Crypto.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\Google.Protobuf.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\K4os.Compression.LZ4.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\K4os.Hash.xxHash.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\MySql.Data.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\Newtonsoft.Json.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\NuGet.Frameworks.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\QRCoder.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\SixLabors.ImageSharp.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\System.Buffers.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\System.Memory.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\System.Net.Http.Formatting.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\System.Numerics.Vectors.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\System.Text.Encoding.CodePages.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\System.Text.Encodings.Web.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\System.Web.Http.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\System.Web.Http.WebHost.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\Ubiety.Dns.Core.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\ZstdNet.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\BouncyCastle.Crypto.xml
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\Google.Protobuf.pdb
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\Google.Protobuf.xml
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\K4os.Compression.LZ4.xml
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\K4os.Hash.xxHash.xml
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\MySql.Data.xml
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\Newtonsoft.Json.xml
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\NuGet.Frameworks.xml
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\SixLabors.ImageSharp.xml
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\System.Buffers.xml
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\System.Memory.xml
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\System.Net.Http.Formatting.xml
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\System.Numerics.Vectors.xml
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\System.Text.Encoding.CodePages.xml
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\System.Text.Encodings.Web.xml
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\System.Web.Http.xml
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\System.Web.Http.WebHost.xml
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\obj\Release\Nextvas_Project_System.csproj.AssemblyReference.cache
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\obj\Release\Nextvas_Project_System.csproj.CoreCompileInputs.cache
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\obj\Release\Nextvas_Project_System.csproj.CopyComplete
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\obj\Release\Nextvas_Project_System.dll
+C:\Users\Junior\Desktop\Nextvas_Project_System\Nextvas_Project_System\obj\Release\Nextvas_Project_System.pdb
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\Nextvas_Project_System.dll.config
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\Nextvas_Project_System.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\Nextvas_Project_System.pdb
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\csc.exe
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\csc.exe.config
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\csc.rsp
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\csi.exe
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\csi.exe.config
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\csi.rsp
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.AppContext.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Collections.Immutable.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Console.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Globalization.Calendars.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.IO.Compression.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.IO.FileSystem.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Net.Http.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Net.Sockets.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Reflection.Metadata.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.ValueTuple.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Xml.XPath.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\vbc.exe
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\vbc.exe.config
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\vbc.rsp
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\VBCSCompiler.exe
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\VBCSCompiler.exe.config
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\BouncyCastle.Crypto.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\Google.Protobuf.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\K4os.Compression.LZ4.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\K4os.Compression.LZ4.Streams.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\K4os.Hash.xxHash.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.Extensions.Primitives.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.Net.Http.Headers.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\MySql.Data.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\Newtonsoft.Json.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\NuGet.Frameworks.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\QRCoder.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\SixLabors.ImageSharp.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\System.Buffers.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\System.Memory.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\System.Net.Http.Formatting.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\System.Numerics.Vectors.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\System.Text.Encoding.CodePages.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\System.Text.Encodings.Web.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\System.Web.Http.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\System.Web.Http.WebHost.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\BouncyCastle.Crypto.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\Google.Protobuf.pdb
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\Google.Protobuf.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\K4os.Compression.LZ4.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\K4os.Compression.LZ4.Streams.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\K4os.Hash.xxHash.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.Extensions.Primitives.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.Net.Http.Headers.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\MySql.Data.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\Newtonsoft.Json.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\SixLabors.ImageSharp.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\System.Buffers.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\System.Memory.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\System.Net.Http.Formatting.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\System.Numerics.Vectors.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\System.Text.Encoding.CodePages.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\System.Text.Encodings.Web.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\System.Web.Http.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\System.Web.Http.WebHost.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\obj\Release\Nextvas_Project_System.csproj.AssemblyReference.cache
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\obj\Release\Nextvas_Project_System.csproj.CoreCompileInputs.cache
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\obj\Release\Nextvas_Project_System.csproj.CopyComplete
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\obj\Release\Nextvas_Project_System.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\obj\Release\Nextvas_Project_System.pdb
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\System.IO.Pipelines.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\System.Threading.Tasks.Extensions.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\System.IO.Pipelines.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\System.Threading.Tasks.Extensions.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\runtimes\linux-x64\native\IronPdfInterop.so
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\runtimes\osx-arm64\native\IronPdfInterop.dylib
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\runtimes\osx-x64\native\IronPdfInterop.dylib
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\runtimes\win-x64\native\IronPdfInterop.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\runtimes\win-x86\native\IronPdfInterop.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\BitMiracle.LibTiff.NET.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\IronBarCode.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\IronSoftware.Drawing.Common.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\SixLabors.Fonts.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\SixLabors.ImageSharp.Drawing.dll
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\BitMiracle.LibTiff.NET.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\IronBarCode.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\IronSoftware.Drawing.Common.pdb
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\IronSoftware.Drawing.Common.xml
+D:\Ian School\3rd Year\3rd Sem\CS134-2P\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\runtimes\linux-x64\native\IronPdfInterop.so
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\runtimes\osx-arm64\native\IronPdfInterop.dylib
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\runtimes\osx-x64\native\IronPdfInterop.dylib
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\runtimes\win-x64\native\IronPdfInterop.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\runtimes\win-x86\native\IronPdfInterop.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\Nextvas_Project_System.dll.config
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\Nextvas_Project_System.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\Nextvas_Project_System.pdb
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\BitMiracle.LibTiff.NET.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\BouncyCastle.Crypto.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\Google.Protobuf.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\IronBarCode.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\IronSoftware.Drawing.Common.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\K4os.Compression.LZ4.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\K4os.Hash.xxHash.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\MySql.Data.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\NuGet.Frameworks.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\QRCoder.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\SixLabors.Fonts.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\SixLabors.ImageSharp.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\SixLabors.ImageSharp.Drawing.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\System.Buffers.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\System.IO.Pipelines.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\System.Memory.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\System.Web.Http.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\BitMiracle.LibTiff.NET.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\BouncyCastle.Crypto.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\Google.Protobuf.pdb
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\Google.Protobuf.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\IronBarCode.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\IronSoftware.Drawing.Common.pdb
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\IronSoftware.Drawing.Common.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\K4os.Compression.LZ4.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\K4os.Hash.xxHash.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\MySql.Data.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\SixLabors.ImageSharp.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\System.Buffers.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\System.IO.Pipelines.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\System.Memory.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\System.Text.Encoding.CodePages.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\System.Web.Http.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\System.Web.Http.WebHost.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\obj\Release\Nextvas_Project_System.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\obj\Release\Nextvas_Project_System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\obj\Release\Nextvas_Project_System.csproj.CopyComplete
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\obj\Release\Nextvas_Project_System.dll
+C:\Users\Admin\Desktop\NextVAsSystem_Working\Nextvas_Project_System\Nextvas_Project_System\obj\Release\Nextvas_Project_System.pdb
